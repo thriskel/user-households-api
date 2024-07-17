@@ -8,11 +8,16 @@ The project also contains oauth endpoints and the possibility to add security to
 
 ## Table of Contents
 
+- Requirements
 - Installation
 - Usage
 - API Endpoints
 - Testing
 - Technologies
+
+## Requirements
+
+- Docker
 
 ## Installation
 
